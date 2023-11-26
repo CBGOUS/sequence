@@ -8,7 +8,7 @@ import org.apache.commons.cli.*;
 import java.io.*;
 
 public class CalcGC {
-
+    // for teaching purposes
     private static final DecimalFormat df = new DecimalFormat("#.##");
     static Options options = new Options();
     static String faFile;
